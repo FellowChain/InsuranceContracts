@@ -1,0 +1,23 @@
+{
+  "name": "insurancecontracts",
+  "version": "1.0.0",
+  "description": "Ethereum backend of FellowChain DApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FellowChain/InsuranceContracts.git"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum"
+  ],
+  "author": "Adam Skrodzki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FellowChain/InsuranceContracts/issues"
+  },
+  "homepage": "https://github.com/FellowChain/InsuranceContracts#readme"
+}
